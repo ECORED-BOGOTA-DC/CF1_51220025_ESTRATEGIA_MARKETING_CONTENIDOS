@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_373703" data-name="Rectángulo 373703" width="64" height="64" transform="translate(661 4841)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_1059022" data-name="Enmascarar grupo 1059022" transform="translate(-661 -4841)" clip-path="url(#clip-path)">
+    <g id="comentario" transform="translate(661 4841)">
+      <path id="Trazado_797112" data-name="Trazado 797112" d="M22.625,15.162H6.25a5,5,0,0,0-5,5V48.2a5,5,0,0,0,5,5h6.19v6.178L18.618,53.2H50.25a5,5,0,0,0,5-5V24.379" fill="none" stroke="#ff5a20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      <path id="Trazado_797113" data-name="Trazado 797113" d="M42.741,15.162H33.875" fill="none" stroke="#ff5a20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      <circle id="Elipse_8291" data-name="Elipse 8291" cx="9.93" cy="9.93" r="9.93" transform="translate(42.89 4.625)" fill="none" stroke="#ff5a20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      <g id="XMLID_227_">
+        <path id="XMLID_228_" d="M51.161,10.305h1.817v8.5" fill="none" stroke="#ff5a20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      </g>
+      <line id="Línea_286" data-name="Línea 286" transform="translate(28.25 15.162)" fill="none" stroke="#ff5a20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      <path id="XMLID_1_" d="M39.972,25.053h0a7.123,7.123,0,0,0-10.073,0L28.25,26.7,26.6,25.053a7.123,7.123,0,0,0-10.073,0h0a7.123,7.123,0,0,0,0,10.073l9.236,9.236a3.515,3.515,0,0,0,4.972,0l9.237-9.236A7.123,7.123,0,0,0,39.972,25.053Z" fill="none" stroke="#ff5a20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>
