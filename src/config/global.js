@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Social media, investigación y creación de contenidos',
     descripcionCurso:
-      'Posicionar una empresa no solo requiere conocer las debilidades y fortalezas, aun segmentando correctamente el mercado hace falta el factor principal, la creación de contenidos y social media, aprovechando el mundo virtual y su gran influencia en los patrones de compra y elecciones finales del consumidor. Por lo que el social media es vital para el desarrollo, crecimiento y posicionamiento de una empresa.',
+      'Posicionar una empresa no solo requiere conocer las debilidades y fortalezas, aun segmentando correctamente el mercado, hace falta el factor principal, la creación de contenidos y social media, aprovechando el mundo virtual y su gran influencia en los patrones de compra y elecciones finales del consumidor. Por lo que el social media es vital para el desarrollo, crecimiento y posicionamiento de una empresa.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
     imagenesDecorativasBanner: [
@@ -285,12 +285,12 @@ export default {
       link:
         'https://www.asuntoslegales.com.co/analisis/johanna-raffo-faccini-2736819/marketing-digital-sin-infringir-derechos-de-terceros-3055140',
     },
-    {
-      referencia:
-        'Semrush. ( 2019). <em>Guía Práctica de marketing de contenidos basado en datos.</em>',
-      link:
-        'https://es.semrush.com/ebooks/guia-marketing-contenidos-basado-datos-sample.pdf',
-    },
+    // {
+    //   referencia:
+    //     'Semrush. ( 2019). <em>Guía Práctica de marketing de contenidos basado en datos.</em>',
+    //   link:
+    //     'https://es.semrush.com/ebooks/guia-marketing-contenidos-basado-datos-sample.pdf',
+    // },
     {
       referencia:
         'Vivar Zurita, H., & Vinader Segura, R. (2011). <em>El impulso de la industria de los contenidos digitales.</em> CIC. Cuadernos de Información y Comunicación, 115-124. ',
