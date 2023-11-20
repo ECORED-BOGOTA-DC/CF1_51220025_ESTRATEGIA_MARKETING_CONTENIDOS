@@ -16,7 +16,7 @@
     
     .d-flex.flex-wrap.align-items-center.mb-5
       .col-lg-9.order-2.order-mlg1.pe-md-4(data-aos="fade-right")
-        p Para implementar campañas exitosas de <em>marketing</em> digital, es fundamental elegir correctamente el contenido, para esto es muy importante hacerlo basado en el conocimiento de los clientes, ya no es suficiente solo definir el público objetivo, sino que se debe hacer un análisis más profundo a través de la realización del perfil del buyer persona, que permite conocer con más detalle a los consumidores. Cuando las empresas conocen a sus clientes están en la capacidad de implementar campañas mucho más enfocadas y con mejores resultados, brindando a los espectadores el contenido de su interés, con interacciones continuas y creando relaciones más cercanas.
+        p Para implementar campañas exitosas de <em>marketing</em> digital, es fundamental elegir correctamente el contenido, para esto es muy importante hacerlo basado en el conocimiento de los clientes, ya no es suficiente solo definir el público objetivo, sino que se debe hacer un análisis más profundo a través de la realización del perfil del <em>buyer persona</em>, que permite conocer con más detalle a los consumidores. Cuando las empresas conocen a sus clientes están en la capacidad de implementar campañas mucho más enfocadas y con mejores resultados, brindando a los espectadores el contenido de su interés, con interacciones continuas y creando relaciones más cercanas.
         p.mb-0 Otro de los factores que contribuyen al éxito de las campañas de <em>marketing</em> digital son las estrategias de posicionamiento, que pueden ser pagas o no. Entre estas se encuentran las estrategias SEO y SEM, que buscan aumentar el tráfico en los sitios web de las empresas, posicionándose en los primeros lugares en los resultados de los motores de búsqueda, para esto se implementan también algunas técnicas como los factores HTML, <em>keywords</em>, fichas temáticas y normalización de datos. 
       img.mb-4.mb-md-auto.mx-auto.col-lg-3.order-1.order-lg-2(src="@/assets/curso/temas/tema3/img-2.png" style="max-width: 295px" data-aos="fade-left")
 
@@ -101,7 +101,7 @@
         p.p-4.mb-0 <b>Videos:</b> es el contenido preferido por los usuarios, se recomienda realizarlos en formatos cortos para asegurar que sean vistos hasta el final y también subtitularlos, de modo que puedan ser vistos sin sonido, algunos de los formatos de vídeo más usados son: entrevistas, <em>webinars</em>, transmisión en vivo, entre otros.
       .tarjeta.mx-auto(style="background-color: #E1D6F3; overflow: hidden; max-width: 400px")
         img(src="@/assets/curso/temas/tema3/img-7.png")
-        p.p-4.mb-0 <B>Audios:</b> este tipo de contenido puede ser escuchado en cualquier momento y lugar, entre los formatos más usados están: canciones, <b><em>podcast</em></b> y audiolibros.
+        p.p-4.mb-0 <B>Audios:</b> este tipo de contenido puede ser escuchado en cualquier momento y lugar, entre los formatos más usados están: canciones, <em>podcast</em> y audiolibros.
       .tarjeta.mx-auto(style="background-color: #E1D6F3; overflow: hidden; max-width: 400px")
         img(src="@/assets/curso/temas/tema3/img-8.png")
         p.p-4.mb-0 <b>Contenido interactivo:</b> puede combinar uno o varios de los formatos mencionados, este tipo de contenido permite mejorar la visibilidad, aumentar la interacción e involucrar activamente a los consumidores.
@@ -114,7 +114,7 @@
     .d-flex.flex-wrap.align-items-center.mb-5
       img.mb-4.mb-lg-auto.col-lg-3.mx-auto(src="@/assets/curso/temas/tema3/img-9.png" style="max-width: 295px" data-aos="fade-right")
       .col-lg-9.ps-lg-4(data-aos="fade-left")
-        p Consiste en seleccionar los canales por medio de los cuales se va a difundir el contenido creado, <b>puede ser por medio de redes sociales, página web, emails, eventos, asociaciones con otras marcas relacionadas, influencers, entre otros.</b> El canal de distribución del contenido también debe elegirse con base en las preferencias del buyer persona, de modo que se garantice que los canales seleccionados sean efectivamente los que prefieren los consumidores.
+        p Consiste en seleccionar los canales por medio de los cuales se va a difundir el contenido creado, <b>puede ser por medio de redes sociales, página web, emails, eventos, asociaciones con otras marcas relacionadas, influencers, entre otros.</b> El canal de distribución del contenido también debe elegirse con base en las preferencias del <em>buyer persona</em>, de modo que se garantice que los canales seleccionados sean efectivamente los que prefieren los consumidores.
     
     .d-flex.mb-5
       h3.d-flex.align-items-center.py-2.ps-3.pe-4(style="background-color: #FF5A20; border-radius: 50px")
@@ -140,7 +140,7 @@
         .tarjeta.p-4(style="background-color: #FFE6DD" titulo="Horarios de publicación")
           p.mb-0 Aplica especialmente para las redes sociales, se deben seleccionar cuidadosamente los horarios en que se realizan las publicaciones, de forma que sean hechas en los periodos en que hay mayor tráfico en la red, para alcanzar el mayor alcance posible.
         .tarjeta.p-4(style="background-color: #FFE6DD" titulo="Características del <br>contenido y descripciones")
-          p.mb-0 Seleccionar las fuentes que se van a usar, validar y verificar la información que se comparte, usar palabras sencillas, generar una relación de cercanía y empatía con los clientes, presentar los productos o servicios de forma sutil, no realizar publicaciones demasiado largas o imágenes con mucho texto, ser actualizado en base a los nuevos intereses y tendencias que siga el buyer persona. 
+          p.mb-0 Seleccionar las fuentes que se van a usar, validar y verificar la información que se comparte, usar palabras sencillas, generar una relación de cercanía y empatía con los clientes, presentar los productos o servicios de forma sutil, no realizar publicaciones demasiado largas o imágenes con mucho texto, ser actualizado en base a los nuevos intereses y tendencias que siga el <em>buyer persona</em>. 
         .tarjeta.p-4(style="background-color: #FFE6DD" titulo="Crear un calendario de <br>publicaciones")
           p.mb-0 Los calendarios de publicaciones se realizan con la finalidad de programar todas las publicaciones que se deben realizar para completar la estrategia de <em>marketing</em> digital, es necesario programar todas las publicaciones al menos con un mes de anticipación, de esta forma se asegura la frecuencia de publicaciones y que se realicen en los tiempos establecidos.
       img.d-none.d-lg-flex.mb-auto.col-lg-3.mx-auto(src="@/assets/curso/temas/tema3/img-9.svg" style="max-width: 295px" data-aos="fade-left")

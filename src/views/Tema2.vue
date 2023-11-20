@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero(data-aos="flip-up")
         span 2
-      h1 Social media
+      h1 <em>Social media</em>
     
     p.mb-5(data-aos="fade-right") Para comprender mejor lo planteado, de manera general se desarrollará algunos de los conceptos básicos en torno a las social media, las técnicas de masificación, y las diferentes plataformas que permiten hacer parte de este mundo, veamos:
   
@@ -13,7 +13,7 @@
       img.mx-auto.mb-4.mb-lg-auto(src='@/assets/curso/temas/tema2/img-1.png' style="max-width: 226px")
       .col-lg-7.pe-lg-4
         .titulo-segundo.color-acento-contenido.mb-4
-          h2 Social Media
+          h2 <em>Social media</em>
         p.mb-4 Con el fin de contextualizarlo en el tema del social media, le invitamos a que revise el siguiente recurso.
         .col-auto
           a.boton.boton--b(:href="obtenerLink('downloads/PDF-Social_media.pdf')" target="_blank")
@@ -71,7 +71,7 @@
     .d-flex.flex-wrap.mb-5.align-items-center
       img.mb-4.mb-lg-auto.col-lg-4.mx-auto(src="@/assets/curso/temas/tema2/img-7.png" style="max-width: 295px" data-aos="fade-right")
       .col-lg-8.ps-lg-4
-        p(data-aos="fade-left") En 2006 su fundador Jack Dorsey  lanza al mercado una red social con las palabras “configurando mi twtter”. Odeo fue una gran revolución del siglo en las redes sociales al convertirse en una plataforma para escuchar podcast  en la red social que hoy se conoce como  <em>Twitter</em> y que casi llega a su fin por iTunes, el objetivo nuevo era tener un chat instantáneo de no mayor a 240 caracteres.  De esta red social nacieron varios caracteres que son usadas por otras aplicaciones como son el @ para contestar a mensajes y tener una identidad dentro de una red social, idea de Robert Andersen, el <em>hashtag</em>, sugerido por Chris Messina o el <em>retweet</em> idea de  Eric Rice. Esta es una de las aplicaciones que ha tenido menos cambios en su estructura y quieren seguir cultivando ya que hace parte de la esencia de esta empresa.
+        p(data-aos="fade-left") En 2006 su fundador Jack Dorsey  lanza al mercado una red social con las palabras “configurando mi twtter”. Odeo fue una gran revolución del siglo en las redes sociales al convertirse en una plataforma para escuchar <em>podcast</em>  en la red social que hoy se conoce como  <em>Twitter</em> y que casi llega a su fin por iTunes, el objetivo nuevo era tener un chat instantáneo de no mayor a 240 caracteres.  De esta red social nacieron varios caracteres que son usadas por otras aplicaciones como son el @ para contestar a mensajes y tener una identidad dentro de una red social, idea de Robert Andersen, el <em>hashtag</em>, sugerido por Chris Messina o el <em>retweet</em> idea de  Eric Rice. Esta es una de las aplicaciones que ha tenido menos cambios en su estructura y quieren seguir cultivando ya que hace parte de la esencia de esta empresa.
         .d-flex.flex-wrap
           .col-lg-9.col-xl-10.order-2.order-lg-1.pe-md-4
             p.mb-0(data-aos="fade-left") Actualmente, es una red social que crea tendencias, gracias a su simpleza y es una de las mayores o la mayor red social que usan los mandatarios de estados, empresarios, personajes influyentes para dar su opinión acerca de un tema de una manera práctica, rápida y donde se puede canalizar información y puntos de vista de la mayoría de los usuarios.

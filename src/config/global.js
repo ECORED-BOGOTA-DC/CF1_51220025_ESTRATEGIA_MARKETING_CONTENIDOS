@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'Social media, investigación y creación de contenidos',
+    componenteFormativo:
+      '<em>Social media</em>, investigación y creación de contenidos',
     descripcionCurso:
-      'Posicionar una empresa no solo requiere conocer las debilidades y fortalezas, aun segmentando correctamente el mercado, hace falta el factor principal, la creación de contenidos y social media, aprovechando el mundo virtual y su gran influencia en los patrones de compra y elecciones finales del consumidor. Por lo que el social media es vital para el desarrollo, crecimiento y posicionamiento de una empresa.',
+      'Posicionar una empresa no solo requiere conocer las debilidades y fortalezas, aun segmentando correctamente el mercado, hace falta el factor principal, la creación de contenidos y <em>social media</em>, aprovechando el mundo virtual y su gran influencia en los patrones de compra y elecciones finales del consumidor. Por lo que el <em>social media</em> es vital para el desarrollo, crecimiento y posicionamiento de una empresa.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
     imagenesDecorativasBanner: [
@@ -62,7 +63,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Social Media',
+        titulo: '<em>Social media</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -78,7 +79,7 @@ export default {
           {
             numero: '2.3',
             titulo:
-              'Plataformas publicitarias (<em>adwords, adsense</em>) y métodos de uso (<em>mass media, red de display</em>)',
+              'Plataformas publicitarias (<em>adwords, adsense</em>) y métodos de uso (<em>mass media</em>, red de <em>display</em>)',
             hash: 't_2_3',
           },
         ],
@@ -167,7 +168,7 @@ export default {
     {
       tema: 'Investigación, gestión de la información y propiedad intelectual',
       referencia:
-        'Chaffey, Dave, Juan Manuel Alegría Sacristán, Salvador Núñez Ramos, Mónica Soto Arredondo, and Fiona Ellis-Chadwick. Marketing Digital: Estrategia, Implementación Y Práctica. Quinta Edición. ed. México: Pearson, 2014. Print.',
+        'Chaffey, Dave, Juan Manuel Alegría Sacristán, Salvador Núñez Ramos, Mónica Soto Arredondo, and Fiona Ellis-Chadwick. <em>Marketing Digital: Estrategia, Implementación Y Práctica.</em> Quinta Edición. ed. México: Pearson, 2014. Print.',
       tipo: 'Libro',
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_ebooks0003832',
@@ -175,7 +176,7 @@ export default {
     {
       tema: 'Social Media',
       referencia:
-        'Carballar, J. Social Media Marketing Personal Y Profesional. España: España, 2012. Web.',
+        'Carballar, J. <em>Social media marketing</em> personal y profesional. México: Alfaomega Grupo Editor.',
       tipo: 'Libro',
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_alfaomega17547',
@@ -183,7 +184,7 @@ export default {
     {
       tema: 'Contenidos digitales y técnicas de posicionamiento',
       referencia:
-        'Anuor Aguilar. (2016,  julio 24 de 2016). ¿Qué es posicionamiento de una marca? | BRANDING | POSITIONING | POSICIONAMIENTO de MERCADO [Archivo de Vídeo].',
+        'Aguilar, A. (2016, julio 24 de 2016). ¿Qué es posicionamiento de una marca? | BRANDING | POSITIONING | POSICIONAMIENTO de MERCADO [Archivo de Vídeo]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=MA2B4yV9Z9Q',
     },
@@ -212,12 +213,12 @@ export default {
     {
       termino: 'SEO',
       significado:
-        '<em>Search Engine Optimization</em>, que en español hace referencia a la optimización para motores de búsqueda.',
+        'Search Engine Optimization, que en español hace referencia a la optimización para motores de búsqueda.',
     },
     {
       termino: 'SEM',
       significado:
-        '<em>Search Engine Marketing</em>, que en español hace referencia al <em>marketing</em> de motores de búsqueda.',
+        'Search Engine Marketing, que en español hace referencia al <em>marketing</em> de motores de búsqueda.',
     },
     {
       termino: 'Usuario',
@@ -234,7 +235,7 @@ export default {
     },
     {
       referencia:
-        'Dirección nacional de derechos de autor, unidad administrativa especial ministerio del interior: <em>Registro de obras.</em>',
+        'Dirección nacional de derechos de autor, unidad administrativa especial ministerio del interior. (s.f.). <em>Registro de obras</em>.',
       link: 'http://derechodeautor.gov.co:8080/registro-de-obras3',
     },
     {
@@ -266,31 +267,25 @@ export default {
     },
     {
       referencia:
-        'Molina David.( 2021).Historia de Facebook: nacimiento y evolución de la red social de Mark Zuckerberg. Iebschool. ',
+        'Molina D. (2021). <em>Historia de Facebook: nacimiento y evolución de la red social de Mark Zuckerberg.</em> Iebschool.',
       link:
         'https://www.iebschool.com/blog/auge-y-declive-de-un-imperio-llamado-facebook-redes-sociales/',
     },
     {
       referencia:
-        'Molina, Jorge (1999). Viva la Publicidad Viva. Madrid. Bilenio Editores.',
+        'Molina, J. (1999). <em>Viva la Publicidad Viva.</em> Madrid. Bilenio Editores.',
       link: '',
     },
     {
-      referencia: 'Ompi (s.f). Derecho de autor. <em>Blog</em>.',
+      referencia: 'Ompi. (s.f.). <em>Derecho de autor.</em> Blog.',
       link: 'https://www.wipo.int/copyright/es/',
     },
     {
       referencia:
-        'Raffo, J. (2020) <em>Marketing digital sin infringir derechos a terceros</em>. Asuntos Legales, Bogotá.',
+        'Raffo, J. (2020). “Marketing” digital sin infringir derechos a terceros. Asuntos Legales, Bogotá.',
       link:
         'https://www.asuntoslegales.com.co/analisis/johanna-raffo-faccini-2736819/marketing-digital-sin-infringir-derechos-de-terceros-3055140',
     },
-    // {
-    //   referencia:
-    //     'Semrush. ( 2019). <em>Guía Práctica de marketing de contenidos basado en datos.</em>',
-    //   link:
-    //     'https://es.semrush.com/ebooks/guia-marketing-contenidos-basado-datos-sample.pdf',
-    // },
     {
       referencia:
         'Vivar Zurita, H., & Vinader Segura, R. (2011). <em>El impulso de la industria de los contenidos digitales.</em> CIC. Cuadernos de Información y Comunicación, 115-124. ',
@@ -302,21 +297,27 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del Ecosistema',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Metodología para la formación virtual',
+          centro:
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+        },
         {
           nombre: 'Carlos Andrés Otero Cano',
           cargo: 'Experto Temático',
@@ -353,19 +354,31 @@ export default {
           nombre: 'Yuly Andrea Rey Quiñonez',
           cargo: 'Diseñador web',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Jhon Edinson Castañeda Oviedo',
           cargo: 'Desarrollo Fullstack',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
-          nombre: 'Nombre',
+          nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Animación y producción audiovisual',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+        },
+        {
+          nombre: 'Lady Adriana Ariza Luque',
+          cargo: 'Animación y producción audiovisual',
+          centro:
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+        },
+        {
+          nombre: 'Laura Gisselle Murcia Pardo',
+          cargo: 'Animación y producción audiovisual',
+          centro:
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -376,20 +389,19 @@ export default {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+        },
+        {
+          nombre: 'Leyson Fabián Castaño Pérez',
+          cargo: 'Validación de contenidos educativos y vinculación al LMS',
+          centro:
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
-          cargo: 'Validación de recursos educativos digitales',
+          cargo: 'Validación de contenidos educativos',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
-        },
-        {
-          nombre: 'Leyson Fabian Castaño Pérez',
-          cargo:
-            'Validación de recursos educativos digitales y vinculación LMS',
-          centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },

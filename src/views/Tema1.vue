@@ -14,9 +14,9 @@
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p(data-aos="fade-right") En el ámbito empresarial, el marketing es una herramienta fundamental para la venta de productos. La importancia de este se centra en la inversión que se genera para mejorar e incrementar la venta de un producto; la cual, se realiza a través del flujo y manejo de la información, así como del análisis y registro de los derechos de autor.
+    p(data-aos="fade-right") En el ámbito empresarial, el <em>marketing</em> es una herramienta fundamental para la venta de productos. La importancia de este se centra en la inversión que se genera para mejorar e incrementar la venta de un producto; la cual, se realiza a través del flujo y manejo de la información, así como del análisis y registro de los derechos de autor.
 
-    p.mb-5(data-aos="fade-right") En el campo del marketing existen diferentes aspectos que desarrollan un papel determinante, es por esto que resulta pertinente definir y comprender algunos términos como los que se relacionan a continuación:
+    p.mb-5(data-aos="fade-right") En el campo del <em>marketing</em> existen diferentes aspectos que desarrollan un papel determinante, es por esto que resulta pertinente definir y comprender algunos términos como los que se relacionan a continuación:
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-edit-acordeon" data-aos="fade-left")
       .row.col-lg-11.mx-auto(titulo="Investigación")
@@ -40,11 +40,11 @@
       .row.col-lg-11.mx-auto(titulo="Propiedad intelectual")
         img.mb-4.mb-md-auto(src='@/assets/curso/temas/tema1/ac-3.svg' style="max-width: 133px" alt='Propiedad intelectual')
         .col-md.ps-lg-4
-          p desde el <em>marketing</em> digital existen diferentes mecanismos para la defensa de la propiedad intelectual, el creador de contenido y el diseñador, quienes resultan ser los más vulnerados a la hora de ejercer sus derechos sobre las creaciones publicitarias. Se debe realizar una aclaración frente a los derechos de autor, pues estos se relacionan directamente con la propiedad industrial la cual hace referencia específica a las creaciones industriales. Lo anterior, significa que, un diseño de carácter industrial pretende diferenciar un producto o una marca, caracterizándose por plasmarse en serie.
+          p Desde el <em>marketing</em> digital existen diferentes mecanismos para la defensa de la propiedad intelectual, el creador de contenido y el diseñador, quienes resultan ser los más vulnerados a la hora de ejercer sus derechos sobre las creaciones publicitarias. Se debe realizar una aclaración frente a los derechos de autor, pues estos se relacionan directamente con la propiedad industrial la cual hace referencia específica a las creaciones industriales. Lo anterior, significa que, un diseño de carácter industrial pretende diferenciar un producto o una marca, caracterizándose por plasmarse en serie.
 
           p Mantener las creaciones enmarcadas bajo un #[b resguardo intelectual] conlleva beneficios tanto para las organizaciones como para los clientes en tanto que permite diferenciar y caracterizar cada pieza, ya sea por su singularidad o por su creatividad, las obras protegidas intelectualmente anticipan una competencia leal y unánime que perdura en el tiempo. Según lo planteado por Raffo en el año 2020  el principal objetivo es  “la protección de datos y la propiedad intelectual se centra en los activos inmateriales que provienen del intelecto humano y que pueden consistir en creaciones de naturaleza artística o literaria” (párr.2).
 
-          p Raffo, también menciona que “A propósito, la Organización Mundial de la Propiedad Intelectual (OMPI) lanzó recientemente un servicio en línea para proteger archivos digitales y prevenir la posible apropiación indebida por parte de terceros. La herramienta #[em Wipo Proof] permite generar una especie de #[b huella digital] con la fecha y hora de creación de determinado archivo, que podrá usarse como elemento probatorio en un posible litigio. Esto permitirá a los titulares de derechos intelectuales ser cada vez más activos en su eficiente y efectiva protección” (párr.4).
+          p Raffo, también menciona que “A propósito, la Organización Mundial de la Propiedad Intelectual (OMPI) lanzó recientemente un servicio en línea para proteger archivos digitales y prevenir la posible apropiación indebida por parte de terceros. La herramienta Wipo Proof permite generar una especie de #[b huella digital] con la fecha y hora de creación de determinado archivo, que podrá usarse como elemento probatorio en un posible litigio. Esto permitirá a los titulares de derechos intelectuales ser cada vez más activos en su eficiente y efectiva protección” (párr.4).
     Separador
     .titulo-segundo.color-acento-contenido
       h2#t_1_1 1.1. Técnicas y métodos de búsqueda y extracción de la información
@@ -67,23 +67,23 @@
         
         .row.justify-content-center.align-items-center
           .order-2.order-lg-1.col-lg-6.mb-4.mb-lg-0.pt-5.pt-0.position-relative
-            h4.ps-4 <em>Google Analytics</em>
-            p.ps-4.mb-0 Es una de las herramientas usadas actualmente para recolectar información y realizar un seguimiento de datos; permite conectar a través de un <em>software</em> de automatización de <em>marketing</em>, sitios web, redes sociales, <em>e-commerces</em>, entre otros recursos. Una de sus características es que permite de manera gratuita configurar la estrategia y la información que el equipo de <em>marketing</em> necesite.
+            h4.ps-4 Google Analytics
+            p.ps-4.mb-0 Es una de las herramientas usadas actualmente para recolectar información y realizar un seguimiento de datos; permite conectar a través de un <em>software</em> de automatización de <em>marketing</em>, sitios web, redes sociales, <em>e-Commerce</em>, entre otros recursos. Una de sus características es que permite de manera gratuita configurar la estrategia y la información que el equipo de <em>marketing</em> necesite.
           .order-1.order-lg-2.mb-4.mb-lg-auto.col-lg-6
             figure
               img.mx-auto(src='@/assets/curso/temas/tema1/img-3.png' style="max-width: 500px")
         
         .row.justify-content-center.align-items-center
           .order-2.order-lg-1.col-lg-6.mb-4.mb-lg-0.pt-5.pt-0.position-relative
-            h4.ps-4 <em>UpMiner</em>
-            p.ps-4.mb-0 Es un <em>software</em> especializado en datos, su estructura <em>Big Data</em>, permite procesar grandes cantidades de información, estructurando en gráficas o cuadros que resultan ser muy útiles para su posterior análisis. La página cuenta con más de dos mil fuentes de información que permiten consolidar una base de búsqueda sólida y estratégica.
+            h4.ps-4 UpMiner
+            p.ps-4.mb-0 Es un <em>software</em> especializado en datos, su estructura <em>big data</em>, permite procesar grandes cantidades de información, estructurando en gráficas o cuadros que resultan ser muy útiles para su posterior análisis. La página cuenta con más de dos mil fuentes de información que permiten consolidar una base de búsqueda sólida y estratégica.
           .order-1.order-lg-2.mb-4.mb-lg-auto.col-lg-6
             figure
               img.mx-auto(src='@/assets/curso/temas/tema1/img-4.png' style="max-width: 500px")
 
         .row.justify-content-center.align-items-center
           .order-2.order-lg-1.col-lg-6.mb-4.mb-lg-0.pt-5.pt-0.position-relative
-            h4.ps-4 <em>Ion</em>
+            h4.ps-4 Ion
             p.ps-4.mb-0 Esta herramienta de búsqueda de información es una propuesta poco convencional, pero bastante efectiva, está enfocada en la posibilidad de producir material interactivo, que permite resumir y sintetizar la información de manera precisa, este sistema de recolección de datos asegura que las diferentes campañas de <em>marketing</em> sean efectivas y sobre todo muy sólidas.
           .order-1.order-lg-2.mb-4.mb-lg-auto.col-lg-6
             figure
@@ -91,7 +91,7 @@
         
         .row.justify-content-center.align-items-center
           .order-2.order-lg-1.col-lg-6.mb-4.mb-lg-0.pt-5.pt-0.position-relative
-            h4.ps-4 <em>Lead Scoring</em>
+            h4.ps-4 Lead Scoring
             p.ps-4.mb-0 Esta es una herramienta que ayuda en la recolección de datos y  en la creación de tácticas de <em>marketing</em> enfocadas en las ventas, este sistema otorga calificaciones positivas y negativas, lo que permite identificar cómo se genera la venta de un producto y que nivel de satisfacción se obtiene.
           .order-1.order-lg-2.mb-4.mb-lg-auto.col-lg-6
             figure
@@ -99,7 +99,7 @@
         
         .row.justify-content-center.align-items-center
           .order-2.order-lg-1.col-lg-6.mb-4.mb-lg-0.pt-5.pt-0.position-relative
-            h4.ps-4 <em>HubSpot</em>
+            h4.ps-4 HubSpot
             p.ps-4.mb-0 Es un <em>software</em> de <em>marketing</em> analítico, permite medir el rendimiento de las distintas campañas publicitarias implementadas por las organizaciones, así como la elaboración de reportes e informes que permiten gestionar la información de manera fácil y efectiva. Cuyo resultado es potencializar el crecimiento de la compañía por medio de la optimización de datos.
           .order-1.order-lg-2.mb-4.mb-lg-auto.col-lg-6
             figure
@@ -114,7 +114,7 @@
       .col-lg-8.ps-lg-4(data-aos="fade-left")
         p Al realizar una revisión desde el ámbito digital del <em>marketing</em> y de los sistemas informáticos, toda empresa debe gestionar su información, analizando y validando para tramitar procesos de negocios y establecer comunicaciones mucho más asertivas tanto a nivel interno como a nivel externo.
         p Por ello, validar los diferentes sistemas informáticos permite organizar de forma efectiva los datos recolectados, así como las herramientas y aplicaciones de las mismas, desde procesos de gestión y control que cumplan con los niveles mínimos de calidad según los estándares establecidos.
-        p.mb-0 Dicha validación, permite implementar herramientas tecnológicas como hardware y software que pretenden mejorar las diferentes prácticas donde son utilizados. Existen múltiples sistemas informáticos que permiten la gestión de información, la clasificación y la valoración, entre ellos se encuentran: los recursos empresariales, en relación con los clientes, gestores de documentos, sistemas de supervisión, control y adquisición de datos entre otros.
+        p.mb-0 Dicha validación, permite implementar herramientas tecnológicas como <em>hardware</em> y software que pretenden mejorar las diferentes prácticas donde son utilizados. Existen múltiples sistemas informáticos que permiten la gestión de información, la clasificación y la valoración, entre ellos se encuentran: los recursos empresariales, en relación con los clientes, gestores de documentos, sistemas de supervisión, control y adquisición de datos entre otros.
     p.mb-5(data-aos="fade-right") Dentro de los sistemas de validación internacional se encuentran:
 
     .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
@@ -123,7 +123,7 @@
     
     .tabla-b.color-acento-contenido.col-lg-10.mx-auto(data-aos="fade-left")
       table
-        caption(style="font-weight: normal;") <b>Nota</b>, Tomado de Ambit (2020). <a href="https://www.ambit-bst.com/blog/validaci%C3%B3n-de-sistemas-inform%C3%A1ticos" target="_blank">https://www.ambit-bst.com/blog/validaci%C3%B3n-de-sistemas-inform%C3%A1ticos</a>
+        caption(style="font-weight: normal;") <b>Nota</b>. Tomado de Ambit (2020). <a href="https://www.ambit-bst.com/blog/validaci%C3%B3n-de-sistemas-inform%C3%A1ticos" target="_blank">https://www.ambit-bst.com/blog/validaci%C3%B3n-de-sistemas-inform%C3%A1ticos</a>
         tr(style="font-weight: bold; color: white; background-color: #232997")
           th.text-center ISO 12207
           td.text-center Procesos del ciclo de vida del software
@@ -178,7 +178,7 @@
             i.fas.fa-check(style="color: #FF5A20" data-aos="fade-right")
             | Los anuncios, los mapas y los dibujos técnicos.
       img.order-1.order-lg-2.mb-4.mb-lg-auto.col-lg-5.mx-auto(src="@/assets/curso/temas/tema1/img-10.svg" style="max-width: 280px" data-aos="fade-left")
-    p.px-4.py-2.mb-5(style="font-weight: normal; background-color: #F6F6F6") <b>Nota</b>, Tomado de Ompi Fuente: <a href="https://www.wipo.int/copyright/es/" target="_blank">https://www.wipo.int/copyright/es/</a>
+    p.px-4.py-2.mb-5(style="font-weight: normal; background-color: #F6F6F6") <b>Nota</b>. Tomado de Ompi Fuente: <a href="https://www.wipo.int/copyright/es/" target="_blank">https://www.wipo.int/copyright/es/</a>
     
     .d-flex.flex-wrap.mb-5.align-items-center
       .col-lg-8.ps-lg-4.order-2.order-lg-1(data-aos="fade-right")
@@ -197,7 +197,7 @@
       .tabla-b__header
         h4.mb-0
       table
-        caption(style="font-weight: normal;") <b>Nota</b>, Tomado de Dirección Nacional de Derechos de Autor <a href="http://derechodeautor.gov.co:8080/descargue-de-formularios" target="_blank">http://derechodeautor.gov.co:8080/descargue-de-formularios</a>
+        caption(style="font-weight: normal;") <b>Nota</b>. Tomado de Dirección Nacional de Derechos de Autor <a href="http://derechodeautor.gov.co:8080/descargue-de-formularios" target="_blank">http://derechodeautor.gov.co:8080/descargue-de-formularios</a>
         tr
           th.text-center(style="color: #004CFF") Formulario de registro de obra literaria (Inédita y Editada)
         tr
