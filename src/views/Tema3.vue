@@ -92,7 +92,7 @@
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-left")
       .tarjeta.mx-auto(style="background-color: #E1D6F3; overflow: hidden; max-width: 400px")
         img(src="@/assets/curso/temas/tema3/img-4.png")
-        p.p-4.mb-0 <b>Textos:</b> se centra en brindar información que ayude a la audiencia a resolver sus problemas y está orientado a conseguir <em>leads</em> más calificados, algunos de los formatos que se encuentran de este tipo son: <em>blogs</em>, <em>ebooks</em>,  listas, entre otros.
+        p.p-4.mb-0 <b>Textos:</b> se centra en brindar información que ayude a la audiencia a resolver sus problemas y está orientado a conseguir <em>leads</em> más calificados, algunos de los formatos que se encuentran de este tipo son: blogs, <em>ebooks</em>,  listas, entre otros.
       .tarjeta.mx-auto(style="background-color: #E1D6F3; overflow: hidden; max-width: 400px")
         img(src="@/assets/curso/temas/tema3/img-5.png")
         p.p-4.mb-0 <b>Imágenes:</b> es uno de los contenidos más utilizados especialmente en redes sociales,  es más visual y atractivo para la audiencia y suele expresar el mensaje que se quiere transmitir de forma concisa y atractiva, algunos de estos formatos son: infografías, <em>gifs</em>, fotografías, etc.
@@ -114,7 +114,7 @@
     .d-flex.flex-wrap.align-items-center.mb-5
       img.mb-4.mb-lg-auto.col-lg-3.mx-auto(src="@/assets/curso/temas/tema3/img-9.png" style="max-width: 295px" data-aos="fade-right")
       .col-lg-9.ps-lg-4(data-aos="fade-left")
-        p Consiste en seleccionar los canales por medio de los cuales se va a difundir el contenido creado, <b>puede ser por medio de redes sociales, página web, emails, eventos, asociaciones con otras marcas relacionadas, influencers, entre otros.</b> El canal de distribución del contenido también debe elegirse con base en las preferencias del <em>buyer persona</em>, de modo que se garantice que los canales seleccionados sean efectivamente los que prefieren los consumidores.
+        p Consiste en seleccionar los canales por medio de los cuales se va a difundir el contenido creado, <b>puede ser por medio de redes sociales, página web, emails, eventos, asociaciones con otras marcas relacionadas, <em>influencers</em>, entre otros.</b> El canal de distribución del contenido también debe elegirse con base en las preferencias del <em>buyer persona</em>, de modo que se garantice que los canales seleccionados sean efectivamente los que prefieren los consumidores.
     
     .d-flex.mb-5
       h3.d-flex.align-items-center.py-2.ps-3.pe-4(style="background-color: #FF5A20; border-radius: 50px")
@@ -158,7 +158,7 @@
             .h2 1
           p
             b Estrategias SEM
-          p El SEM (<em>Search Engine Marketing</em>), que en español hace referencia al <em>marketing</em> de motores de búsqueda, consiste en la elaboración de campañas y anuncios para los cuales se paga con el fin de que aparezcan de forma prioritaria en los motores de búsqueda, de esta manera se aumenta su visibilidad y accesibilidad. Otra de las ventajas de esta estrategia es que permite llegar a un público que tenga intereses similares a los que ofrece la empresa a través de su campaña.
+          p El SEM (Search Engine Marketing), que en español hace referencia al <em>marketing</em> de motores de búsqueda, consiste en la elaboración de campañas y anuncios para los cuales se paga con el fin de que aparezcan de forma prioritaria en los motores de búsqueda, de esta manera se aumenta su visibilidad y accesibilidad. Otra de las ventajas de esta estrategia es que permite llegar a un público que tenga intereses similares a los que ofrece la empresa a través de su campaña.
 
       .col-md-6.col-xl.mb-4.mb-xl-0.d-flex(data-aos="fade-left")
         .w-100.tarjeta-numerada.color-acento-contenido.p-5
@@ -166,7 +166,7 @@
             .h2(style="color: white") 2
           p
             b Estrategias SEO
-          p SEO (<em>Search Engine Optimization</em>), hace referencia a la optimización para motores de búsqueda, su objetivo es aparecer en los primeros resultados de las búsquedas de manera orgánica, es decir, sin tener que pagar a los programas de motores de búsqueda. Esta estrategia se basa en la creación de contenido de alto valor, principalmente en WordPress, para la redacción de blogs; redacción de <em>posts</em> para redes; ubicación de palabras clave en comentarios de redes sociales; y la creación de <em>hashtags</em> en redes con publicaciones asociadas a las principales tendencias del momento.
+          p SEO (Search Engine Optimization), hace referencia a la optimización para motores de búsqueda, su objetivo es aparecer en los primeros resultados de las búsquedas de manera orgánica, es decir, sin tener que pagar a los programas de motores de búsqueda. Esta estrategia se basa en la creación de contenido de alto valor, principalmente en WordPress, para la redacción de blogs; redacción de <em>posts</em> para redes; ubicación de palabras clave en comentarios de redes sociales; y la creación de <em>hashtags</em> en redes con publicaciones asociadas a las principales tendencias del momento.
     
     Separador
     .titulo-segundo.color-acento-contenido

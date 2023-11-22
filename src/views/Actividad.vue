@@ -10,7 +10,7 @@
             img(src="@/assets/template/arrastrar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Social Media, investigación y creación de contenidos
+          h2 <em>Social media</em>, investigación y creación de contenidos
         p.mb-4 Analizar los conceptos sobre creación de contenidos y social media para su aplicación en el posicionamiento de una marca.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
