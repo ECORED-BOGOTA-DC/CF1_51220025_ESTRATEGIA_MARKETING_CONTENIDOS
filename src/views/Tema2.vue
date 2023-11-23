@@ -26,8 +26,7 @@
     .d-flex.flex-wrap.mb-5.align-items-center
       img.mb-4.mb-lg-auto.col-lg-4.col-xl-3.mx-auto(src="@/assets/curso/temas/tema2/img-2.png" style="max-width: 295px" data-aos="fade-right")
       .col-lg-8.col-xl-9.ps-lg-4(data-aos="fade-left")
-        p En el mundo existen múltiples redes sociales, algunas solo llegan a ser divulgadas en una zona, región o país y otras llegan a traspasar fronteras, como lo son Facebook, Twitter, Instagram, LinkedIn, entre otras. Estas son las aplicaciones que tienen más descargas en el mundo tanto para Android como iOS, dichas plataformas son totalmente gratis, pero hay versiones pagas donde se puede publicitar, tener diferentes interacciones con los
-        p usuarios como es el caso de LinkedIn o tener estadísticas para el beneficio de un usuario, empresa o grupo de personas.
+        p En el mundo existen múltiples redes sociales, algunas solo llegan a ser divulgadas en una zona, región o país y otras llegan a traspasar fronteras, como lo son Facebook, Twitter, Instagram, LinkedIn, entre otras. Estas son las aplicaciones que tienen más descargas en el mundo tanto para Android como iOS, dichas plataformas son totalmente gratis, pero hay versiones pagas donde se puede publicitar, tener diferentes interacciones con los usuarios como es el caso de LinkedIn o tener estadísticas para el beneficio de un usuario, empresa o grupo de personas.
         p.mb-0 Las diferentes redes sociales que se encuentran actualmente son las siguientes:
 
     .d-flex.mb-5
@@ -186,7 +185,7 @@
     p.mb-5(data-aos="fade-right") Existen diversas plataformas publicitarias como las que se describen a continuación:
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-edit-acordeon" data-aos="fade-left")
-      .row.col-lg-11.mx-auto(titulo="adWords")
+      .row.col-lg-11.mx-auto(titulo="AdWords")
         img.mb-4.mb-md-auto(src='@/assets/curso/temas/tema2/img-13.svg' style="max-width: 133px" alt='imagen del logo adWords')
         .col-md.ps-lg-4
           p Actualmente, se conoce como Google ADS, es un sistema de publicidad que pertenece a Google, nació en el año 2000 y hoy se posiciona como una de las plataformas de publicidad <em>online</em> más grandes del mercado. Su principal característica es que logra conectar empresas con clientes de manera muy fácil y  precios ajustables para pequeñas, medianas y grandes empresas.

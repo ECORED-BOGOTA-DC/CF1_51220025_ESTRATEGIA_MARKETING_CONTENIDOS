@@ -282,7 +282,7 @@ export default {
     },
     {
       referencia:
-        'Raffo, J. (2020). “Marketing” digital sin infringir derechos a terceros. Asuntos Legales, Bogotá.',
+        'Raffo, J. (2020). <em>Marketing digital sin infringir derechos a terceros</em>. Asuntos Legales, Bogotá.',
       link:
         'https://www.asuntoslegales.com.co/analisis/johanna-raffo-faccini-2736819/marketing-digital-sin-infringir-derechos-de-terceros-3055140',
     },
@@ -321,7 +321,7 @@ export default {
         {
           nombre: 'Carlos Andrés Otero Cano',
           cargo: 'Experto Temático',
-          centro: 'Regional Cauca, Centro de Comercio y Servicios',
+          centro: 'Regional Cauca - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gloria Amparo López Escudero',
