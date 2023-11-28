@@ -12,7 +12,7 @@
 
       figure.col-12.mx-auto.mb-5(data-aos="fade-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/a65NampEZVs?si=DzBLEF75qPahF2wf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p(data-aos="fade-right") En el ámbito empresarial, el <em>marketing</em> es una herramienta fundamental para la venta de productos. La importancia de este se centra en la inversión que se genera para mejorar e incrementar la venta de un producto; la cual, se realiza a través del flujo y manejo de la información, así como del análisis y registro de los derechos de autor.
 
