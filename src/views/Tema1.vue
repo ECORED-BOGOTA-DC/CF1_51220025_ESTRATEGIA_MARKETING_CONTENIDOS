@@ -186,7 +186,7 @@
 
         p Dentro de la legislación colombiana, el registro de obras se enmarca en un proceso de registro que en primera instancia protege a las obras desde el momento mismo de su creación. Para que esto sea posible en primera medida se deben registrar las obras en la Dirección Nacional de Derecho de Autor. Este ente regulador está adscrito al Ministerio del Interior, es el único organismo que otorga el registro de derecho de autor. Es de aclarar que este trámite se desarrolla de manera gratuita y sin ningún intermediario. El trámite de aprobación puede tardar 30 días aproximadamente y está sujeto al decreto 491 de 2020.
 
-        p.mb-0 El registro de obras se puede realizar tanto de manera presencial personal, como de manera virtual. Si desea realizar, los trámites de forma presencial puede acercarse a las instalaciones de la Dirección Nacional de Derecho de Autor, ubicado en la ciudad de Bogotá, de igual manera debe solicitar una cita previa donde indique el nombre completo de quien realiza el trámite. Si los trámites los realiza de manera virtual, debe ingresar al portal <a href="www.registroenlinea.gov.co" target="_blank">www.registroenlinea.gov.co</a> donde debe registrarse y escoger el tipo de formulario de acuerdo con la categoría de la obra a la que desea aplicar estos derechos. A continuación, se expone la lista de formularios que encontrará disponible en la plataforma de la Dirección Nacional de Derechos de Autor:
+        p.mb-0 El registro de obras se puede realizar tanto de manera presencial personal, como de manera virtual. Si desea realizar, los trámites de forma presencial puede acercarse a las instalaciones de la Dirección Nacional de Derecho de Autor, ubicado en la ciudad de Bogotá, de igual manera debe solicitar una cita previa donde indique el nombre completo de quien realiza el trámite. Si los trámites los realiza de manera virtual, debe ingresar al portal <a href="https://www.registroenlinea.gov.co" target="_blank">www.registroenlinea.gov.co</a> donde debe registrarse y escoger el tipo de formulario de acuerdo con la categoría de la obra a la que desea aplicar estos derechos. A continuación, se expone la lista de formularios que encontrará disponible en la plataforma de la Dirección Nacional de Derechos de Autor:
       img.mb-4.mb-lg-auto.col-lg-4.order-1.order-lg-2(src="@/assets/curso/temas/tema1/img-11.png" style="max-width: 400px" data-aos="fade-left")
     
     .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
@@ -195,7 +195,7 @@
 
     .tabla-b.color-secundario.col-lg-8.mx-auto(data-aos="fade-left")
       .tabla-b__header
-        h4.mb-0
+        h4.mb-0 Formularios para registro de derechos de autor
       table
         caption(style="font-weight: normal;") <b>Nota</b>. Tomado de Dirección Nacional de Derechos de Autor <a href="http://derechodeautor.gov.co:8080/descargue-de-formularios" target="_blank">http://derechodeautor.gov.co:8080/descargue-de-formularios</a>
         tr

@@ -158,7 +158,7 @@
             .h2 1
           p
             b Estrategias SEM
-          p El SEM (Search Engine Marketing), que en español hace referencia al <em>marketing</em> de motores de búsqueda, consiste en la elaboración de campañas y anuncios para los cuales se paga con el fin de que aparezcan de forma prioritaria en los motores de búsqueda, de esta manera se aumenta su visibilidad y accesibilidad. Otra de las ventajas de esta estrategia es que permite llegar a un público que tenga intereses similares a los que ofrece la empresa a través de su campaña.
+          p El SEM (<em>Search Engine Marketing</em>), que en español hace referencia al <em>marketing</em> de motores de búsqueda, consiste en la elaboración de campañas y anuncios para los cuales se paga con el fin de que aparezcan de forma prioritaria en los motores de búsqueda, de esta manera se aumenta su visibilidad y accesibilidad. Otra de las ventajas de esta estrategia es que permite llegar a un público que tenga intereses similares a los que ofrece la empresa a través de su campaña.
 
       .col-md-6.col-xl.mb-4.mb-xl-0.d-flex(data-aos="fade-left")
         .w-100.tarjeta-numerada.color-acento-contenido.p-5
@@ -166,7 +166,7 @@
             .h2(style="color: white") 2
           p
             b Estrategias SEO
-          p SEO (Search Engine Optimization), hace referencia a la optimización para motores de búsqueda, su objetivo es aparecer en los primeros resultados de las búsquedas de manera orgánica, es decir, sin tener que pagar a los programas de motores de búsqueda. Esta estrategia se basa en la creación de contenido de alto valor, principalmente en WordPress, para la redacción de blogs; redacción de <em>posts</em> para redes; ubicación de palabras clave en comentarios de redes sociales; y la creación de <em>hashtags</em> en redes con publicaciones asociadas a las principales tendencias del momento.
+          p SEO (<em>Search Engine Optimization</em>), hace referencia a la optimización para motores de búsqueda, su objetivo es aparecer en los primeros resultados de las búsquedas de manera orgánica, es decir, sin tener que pagar a los programas de motores de búsqueda. Esta estrategia se basa en la creación de contenido de alto valor, principalmente en WordPress, para la redacción de blogs; redacción de <em>posts</em> para redes; ubicación de palabras clave en comentarios de redes sociales; y la creación de <em>hashtags</em> en redes con publicaciones asociadas a las principales tendencias del momento.
     
     Separador
     .titulo-segundo.color-acento-contenido

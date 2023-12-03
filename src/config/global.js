@@ -79,7 +79,7 @@ export default {
           {
             numero: '2.3',
             titulo:
-              'Plataformas publicitarias (<em>adwords, adsense</em>) y métodos de uso (<em>mass media</em>, red de <em>display</em>)',
+              'Plataformas publicitarias (Adwords, Adsense) y métodos de uso (<em>mass media</em>, red de <em>display</em>)',
             hash: 't_2_3',
           },
         ],
@@ -213,12 +213,12 @@ export default {
     {
       termino: 'SEO',
       significado:
-        ' Search Engine Optimization, que en español hace referencia a la optimización para motores de búsqueda.',
+        ' <em>Search Engine Optimization</em>, que en español hace referencia a la optimización para motores de búsqueda.',
     },
     {
       termino: 'SEM',
       significado:
-        ' Search Engine Marketing, que en español hace referencia al <em>marketing</em> de motores de búsqueda.',
+        ' <em>Search Engine Marketing</em>, que en español hace referencia al <em>marketing</em> de motores de búsqueda.',
     },
     {
       termino: 'Usuario',
