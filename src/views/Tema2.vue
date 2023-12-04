@@ -26,7 +26,7 @@
     .d-flex.flex-wrap.mb-5.align-items-center
       img.mb-4.mb-lg-auto.col-lg-4.col-xl-3.mx-auto(src="@/assets/curso/temas/tema2/img-2.png" style="max-width: 295px" data-aos="fade-right")
       .col-lg-8.col-xl-9.ps-lg-4(data-aos="fade-left")
-        p En el mundo existen múltiples redes sociales, algunas solo llegan a ser divulgadas en una zona, región o país y otras llegan a traspasar fronteras, como lo son Facebook, X, Instagram, LinkedIn, entre otras. Estas son las aplicaciones que tienen más descargas en el mundo tanto para Android como iOS, dichas plataformas son totalmente gratis, pero hay versiones pagas donde se puede publicitar, tener diferentes interacciones con los usuarios como es el caso de LinkedIn o tener estadísticas para el beneficio de un usuario, empresa o grupo de personas.
+        p En el mundo existen múltiples redes sociales, algunas solo llegan a ser divulgadas en una zona, región o país y otras llegan a traspasar fronteras, como lo son Facebook, Twitter (conocida ahora como X), Instagram, LinkedIn, entre otras. Estas son las aplicaciones que tienen más descargas en el mundo tanto para Android como iOS, dichas plataformas son totalmente gratis, pero hay versiones pagas donde se puede publicitar, tener diferentes interacciones con los usuarios como es el caso de LinkedIn o tener estadísticas para el beneficio de un usuario, empresa o grupo de personas.
         p.mb-0 Las diferentes redes sociales que se encuentran actualmente son las siguientes:
 
     .d-flex.mb-5
@@ -65,12 +65,12 @@
     .d-flex.mb-5
       h3.d-flex.align-items-center.py-2.ps-3.pe-4(style="background-color: #FF5A20; border-radius: 50px")
         p.mb-0.me-4(style="width: 36px; height: 36px; border-radius: 50%; border: 5px solid white;" data-aos="fade-up")
-        |<span data-aos="fade-left">X</span>
+        |<span data-aos="fade-left">Twitter (X)</span>
       
     .d-flex.flex-wrap.mb-5.align-items-center
       img.mb-4.mb-lg-auto.col-lg-4.mx-auto(src="@/assets/curso/temas/tema2/img-7.png" style="max-width: 295px" data-aos="fade-right")
       .col-lg-8.ps-lg-4
-        p(data-aos="fade-left") En 2006 su fundador Jack Dorse y lanza al mercado una red social con las palabras “configurando mi twitter”. Odeo fue una gran revolución del siglo en las redes sociales al convertirse en una plataforma para escuchar <em>podcast</em>  en la red social que hoy se conoce como  X y que casi llega a su fin por iTunes, el objetivo nuevo era tener un chat instantáneo de no mayor a 240 caracteres.  De esta red social nacieron varios caracteres que son usadas por otras aplicaciones como son el @ para contestar a mensajes y tener una identidad dentro de una red social, idea de Robert Andersen, el <em>hashtag</em>, sugerido por Chris Messina o el <em>retweet</em> idea de  Eric Rice. Esta es una de las aplicaciones que ha tenido menos cambios en su estructura y quieren seguir cultivando ya que hace parte de la esencia de esta empresa.
+        p(data-aos="fade-left") En 2006 su fundador Jack Dorse y lanza al mercado una red social con las palabras “configurando mi twitter”. Odeo fue una gran revolución del siglo en las redes sociales al convertirse en una plataforma para escuchar <em>podcast</em>  en la red social que hoy se conoce como Twitter (X) y que casi llega a su fin por iTunes, el objetivo nuevo era tener un chat instantáneo de no mayor a 240 caracteres.  De esta red social nacieron varios caracteres que son usadas por otras aplicaciones como son el @ para contestar a mensajes y tener una identidad dentro de una red social, idea de Robert Andersen, el <em>hashtag</em>, sugerido por Chris Messina o el <em>retweet</em> idea de  Eric Rice. Esta es una de las aplicaciones que ha tenido menos cambios en su estructura y quieren seguir cultivando ya que hace parte de la esencia de esta empresa.
         .d-flex.flex-wrap
           .col-lg-9.col-xl-10.order-2.order-lg-1.pe-md-4
             p.mb-0(data-aos="fade-left") Actualmente, es una red social que crea tendencias, gracias a su simpleza y es una de las mayores o la mayor red social que usan los mandatarios de estados, empresarios, personajes influyentes para dar su opinión acerca de un tema de una manera práctica, rápida y donde se puede canalizar información y puntos de vista de la mayoría de los usuarios.
