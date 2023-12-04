@@ -109,7 +109,7 @@
       h2#t_2_2 2.2. Técnicas de masificación
     
     p(data-aos="fade-right") En la mayoría de redes sociales existen diferentes formas de incrementar las interacciones de los usuarios con otros usuarios o con empresas. Como se ha mencionado anteriormente existen estadísticas donde se mide dicha interacción con el fin de masificar e incrementar el volumen de usuarios allegados a una cuenta. 
-    p(data-aos="fade-right") El <em>engagement</em> es el lazo que se crea emocionalmente con un usuario o producto, generado en las diferentes plataformas y se ve clasificado por número de me gustas, número de comentarios, número de veces compartido por algunas personas, número de veces que guardan una publicación, el número de vistas a un perfil, el número de alcance de una publicación, número de vistas a la página web, el alcance de la publicación, historia y comentario. Esta información también está descritay resumida en gráficas de comportamiento, como la edad, género y lugares de interacción. 
+    p(data-aos="fade-right") El <em>engagement</em> es el lazo que se crea emocionalmente con un usuario o producto, generado en las diferentes plataformas y se ve clasificado por número de me gustas, número de comentarios, número de veces compartido por algunas personas, número de veces que guardan una publicación, el número de vistas a un perfil, el número de alcance de una publicación, número de vistas a la página web, el alcance de la publicación, historia y comentario. Esta información también está descrita y resumida en gráficas de comportamiento, como la edad, género y lugares de interacción. 
     p.mb-5(data-aos="fade-right") Entre las múltiples formas de estrategia para generar <em>engagement</em> de manera gratuita se encuentran las siguientes:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-left")
@@ -179,7 +179,7 @@
 
     Separador
     .titulo-segundo.color-acento-contenido
-      h2#t_2_3 2.3. Plataformas publicitarias (adWords, adsense) y métodos de uso (<em>mass media</em>, red de <em>display</em>)
+      h2#t_2_3 2.3. Plataformas publicitarias (AdWords, Adsense) y métodos de uso (<em>mass media</em>, red de <em>display</em>)
     
     p(data-aos="fade-right") Las métricas de internet son muy importantes para los especialistas en mercadeo a la hora de buscar falencias, fortalezas y oportunidades de una empresa; estas herramientas ayudan a los usuarios a desglosar y obtener información de manera ordenada y tabulada para lograr una investigación y planeación estratégica de cómo llegar a un mercado objetivo. 
     p.mb-5(data-aos="fade-right") Existen diversas plataformas publicitarias como las que se describen a continuación:

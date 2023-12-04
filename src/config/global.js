@@ -213,12 +213,12 @@ export default {
     {
       termino: 'SEO',
       significado:
-        ' <em>Search Engine Optimization</em>, que en español hace referencia a la optimización para motores de búsqueda.',
+        ' Search Engine Optimization, que en español hace referencia a la optimización para motores de búsqueda.',
     },
     {
       termino: 'SEM',
       significado:
-        ' <em>Search Engine Marketing</em>, que en español hace referencia al <em>marketing</em> de motores de búsqueda.',
+        ' Search Engine Marketing, que en español hace referencia al <em>marketing</em> de motores de búsqueda.',
     },
     {
       termino: 'Usuario',

@@ -13,7 +13,7 @@
       .d-flex.flex-wrap.mb-5
         img.mb-4.mb-md-auto(src="@/assets/curso/temas/img-1.svg" style="max-width: 85px" data-aos="fade-right")
         .col-md.ps-md-4
-          p.mb-0(data-aos="fade-left") Estimado aprendiz, se da la bienvenida a este momento de aprendizaje orientado a reconocer entre otras cosas los beneficios de los contenidos digitales, al igual que la relevancia que actualmente tienen los tipos y herramientas de búsqueda, el <em>Social media</em>, técnicas de posicionamiento y muchos otros temas más que serán de gran importancia en este programa de formación que adelanta a partir de este momento. Antes de iniciar le invitamos a revisar el siguiente video con el fin de identificar el contexto de aprendizaje:
+          p.mb-0(data-aos="fade-left") Estimado aprendiz, se da la bienvenida a este momento de aprendizaje orientado a reconocer entre otras cosas los beneficios de los contenidos digitales, al igual que la relevancia que actualmente tienen los tipos y herramientas de búsqueda, el <em>social media</em>, técnicas de posicionamiento y muchos otros temas más que serán de gran importancia en este programa de formación que adelanta a partir de este momento. Antes de iniciar le invitamos a revisar el siguiente video con el fin de identificar el contexto de aprendizaje:
 
       figure.col-12.mx-auto.mb-5(data-aos="fade-left")
         .video
