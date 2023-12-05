@@ -16,7 +16,7 @@
           h2 <em>Social media</em>
         p.mb-4 Con el fin de contextualizarlo en el tema del social media, le invitamos a que revise el siguiente recurso.
         .col-auto
-          a.boton.boton--b(:href="obtenerLink('downloads/PDF-Social_media.pdf')" target="_blank")
+          a.boton.boton--b(:href="obtenerLink('downloads/Social_media.pdf')" target="_blank")
             span Descargar 
             i.fas.fa-file-download
     Separador
